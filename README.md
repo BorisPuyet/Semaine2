@@ -1,2 +1,3 @@
-# Semaine2
-Semaine2 (de Travail éffectué durant la formation de codage WebOgreen et Simplon)
+## Semaine2 : Acquérir les badges HTML + CSS sur CodeCademy
+
+Lien vers les badges CodeCademy : [Badges](https://www.codecademy.com/fr/users/BorisPuyet/achievements)
